@@ -1,6 +1,80 @@
 ﻿body {
+    background-color:#e4e4e4;
 }
 
 h3 {
     text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+#workMore{
+    font-size:medium;
+    text-align:center;
+    background-color:#59d0de;
+}
+
+#workMore1{
+    font-size:x-small;
+    width:70%;
+    text-align:center;
+    background-color:#59d0de;
+}
+
+#workMore2{
+    font-size:xx-small;
+    width:40%;
+    text-align:center;
+    background-color:#59d0de;
+}
+#iconbar{
+    background-color: darkgray;
+}
+
+#drop{
+    width:auto;
+}
+
+#drpBtn{
+    background-color:#59d0de;
+    text-align:center;
+    font-size:medium;
+}
+
+#drpBtn1{
+    font-size:x-small;
+    width:70%;
+    text-align:center;
+    background-color:#59d0de;
+}
+
+#drpBtn2{
+    font-size:xx-small;
+    width:40%;
+     text-align:center;
+    background-color:#59d0de;
+}
+
+h6{
+    font-size:xx-small;
+    text-align:center;
+}
+
+#amazingslider-wrapper-1 {
+    display: block;
+    position: relative;
+    max-width: 400px;
+    margin: 0px auto 56px;
+}
+
+#amazingslider-1 {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+}
+
+.amazingslider-slides{
+    display:none;
 }
