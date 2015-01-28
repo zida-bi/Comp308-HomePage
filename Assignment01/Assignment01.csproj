@@ -68,6 +68,7 @@
     <Content Include="assets\images\MovieTicket.JPG" />
     <Content Include="assets\images\project.svg" />
     <Content Include="assets\images\service.svg" />
+    <Content Include="assets\images\texture.jpg" />
     <Content Include="assets\images\TicketSys-tn.jpg" />
     <Content Include="assets\images\TicketSys.jpg" />
     <Content Include="assets\images\webicon-facebook-m.png" />
@@ -91,6 +92,7 @@
     <Content Include="assets\sliderengine\html5boxplayer_playpause.png" />
     <Content Include="assets\sliderengine\html5boxplayer_playvideo.png" />
     <Content Include="assets\sliderengine\html5boxplayer_volume.png" />
+    <Content Include="assets\sliderengine\initslider-2.js" />
     <Content Include="assets\sliderengine\initslider-1.js" />
     <Content Include="assets\sliderengine\jquery.js" />
     <Content Include="assets\sliderengine\lightbox-close.png" />
