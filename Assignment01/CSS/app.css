@@ -91,4 +91,10 @@ h6{
     height:50%;
     width:50%;
 }
+#contactInfo{
+    list-style-type:none;
+}
 
+#company{
+    font-weight:bold;
+}
