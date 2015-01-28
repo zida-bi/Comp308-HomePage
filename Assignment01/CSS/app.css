@@ -6,6 +6,10 @@
 #currentPg{
     background-color:#2081ca;
 }
+
+#small-current{
+    background-color: #1e1e1e;
+}
 .item{
     border-radius:13px;
 }
@@ -83,3 +87,7 @@ p{
     background-color:#FFE5D6;
 }
 
+#personalPic{
+    height:50%;
+    width:50%;
+}
