@@ -113,6 +113,7 @@
     <Content Include="assets\sliderengine\play-32-32-0.png" />
     <Content Include="assets\sliderengine\playvideo-64-64-0.png" />
     <Content Include="assets\sliderengine\previewarrow-16-8-0.png" />
+    <Content Include="contactme.html" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
