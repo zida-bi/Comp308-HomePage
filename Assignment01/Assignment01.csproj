@@ -128,6 +128,7 @@
     <Content Include="CSS\app.css" />
     <Content Include="humans.txt" />
     <Content Include="index.html" />
+    <Content Include="projects.html" />
     <Content Include="robots.txt" />
     <Content Include="Scripts\app.js" />
     <Content Include="Scripts\foundation\fastclick.js" />
